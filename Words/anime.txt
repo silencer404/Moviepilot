@@ -1,16 +1,16 @@
+##2025年1月新番
 #re:从零开始的异世界生活 第三季
 #Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
 #(?<=ANi.*?)Re：從零開始的異世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
 #(?<=ANi.*?)Re：从零开始的异世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
 #Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03E10.2024.1080p.CR.WEB-DL.H.264.AAC-FROGWeb.mkv
-Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
-
+Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*FROGWeb) => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
 
 #药屋少女的呢喃 第二季 
 #The.Apothecary.Diaries.S02E09.2025.1080p.NF.WEB-DL.H.264.AAC-FROGWeb.mkv
-The.Apothecary.Diaries.S02 => The.Apothecary.Diaries.S01 && S01 <> 2025 >> EP+24
+The.Apothecary.Diaries.S02(?=.*FROGWeb) => The.Apothecary.Diaries.S01 && S01 <> 2025 >> EP+24
 #The.Apothecary.Diaries.S02E08.1080p.NF.WEB-DL.AAC2.0.H.264-MWeb.mkv
-The.Apothecary.Diaries.S02 => The.Apothecary.Diaries.S01 && S01 <> 1080p >> EP+24
+The.Apothecary.Diaries.S02(?=.*MWeb) => The.Apothecary.Diaries.S01 && S01 <> 1080p >> EP+24
 
 #香格里拉边境
 #Shangri-La.Frontier.S02E21.1080p.KKTV.WEB-DL.AAC2.0.H.264-MWeb.mkv
@@ -19,3 +19,7 @@ Shangri-La.Frontier.S02 => ShangriLa.Frontier.S01 && S01 <> 1080p >> EP+25
 Shangri-La.Frontier.2024.S02 => ShangriLa.Frontier.S01 && S01 <> 1080p >> EP+25
 #Shangri La Frontier S02E22 2024 1080p CR WEB-DL H.264 AAC-FROGWeb
 Shangri La Frontier S02 => Shangri La Frontier S01 && S01 <> 1080p >> EP+25
+
+#我的美好婚事
+#My Happy Marriage S02E10 2023 1080p
+My Happy Marriage S02 => My Happy Marriage S01 && S01 <> 2023 >> EP+12
