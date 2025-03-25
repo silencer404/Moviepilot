@@ -1,3 +1,7 @@
+#心理测量者
+#第三季[VCB-Studio] PSYCHO-PASS 3 [01][Ma10p_1080p][x265_flac_aac].mkv
+PSYCHO-PASS 3  => PSYCHO-PASS S03E
+
 ##2025年1月新番
 #re:从零开始的异世界生活 第三季
 #Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
