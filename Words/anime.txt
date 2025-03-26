@@ -1,3 +1,10 @@
+#EVA新剧场版
+ヱヴァンゲリヲン新劇場版：Q： => 福音战士新剧场版 Q 
+ヱヴァンゲリヲン新劇場版：破： => 福音战士新剧场版 破 
+ヱヴァンゲリヲン新劇場版：序： => 福音战士新剧场版 序 
+
+#枕刀歌之尘世行 UBWEB
+\[枕刀歌之尘世行\].Zhen.Dao.Ge.Zhi.Chen.Shi.Xing => 枕刀歌之尘世行
 #心理测量者
 #第三季[VCB-Studio] PSYCHO-PASS 3 [01][Ma10p_1080p][x265_flac_aac].mkv
 PSYCHO-PASS 3  => PSYCHO-PASS S03E
