@@ -5,6 +5,7 @@
 
 #枕刀歌之尘世行 UBWEB
 \[枕刀歌之尘世行\].Zhen.Dao.Ge.Zhi.Chen.Shi.Xing => 枕刀歌之尘世行
+
 #心理测量者
 #第三季[VCB-Studio] PSYCHO-PASS 3 [01][Ma10p_1080p][x265_flac_aac].mkv
 PSYCHO-PASS 3  => PSYCHO-PASS S03E
@@ -23,7 +24,7 @@ The.Apothecary.Diaries.S02(?=.*FROGWeb) => The.Apothecary.Diaries.S01 && S01 <> 
 #The.Apothecary.Diaries.S02E08.1080p.NF.WEB-DL.AAC2.0.H.264-MWeb.mkv
 The.Apothecary.Diaries.S02(?=.*MWeb) => The.Apothecary.Diaries.S01 && S01 <> 1080p >> EP+24
 
-#香格里拉边境
+#香格里拉边境 第二季
 #Shangri-La.Frontier.S02E21.1080p.KKTV.WEB-DL.AAC2.0.H.264-MWeb.mkv
 Shangri-La.Frontier.S02 => ShangriLa.Frontier.S01 && S01 <> 1080p >> EP+25
 #[香格里拉·开拓异境～粪作猎手挑战神作～ 第二季].Shangri-La.Frontier.2024.S02E04.1080p.NF.WEB-DL.H264.AAC-UBWEB.mkv
@@ -31,6 +32,6 @@ Shangri-La.Frontier.2024.S02 => ShangriLa.Frontier.S01 && S01 <> 1080p >> EP+25
 #Shangri.La.Frontier.S02E22.2024.1080p.CR.WEB-DL.H.264.AAC-FROGWeb.mkv
 Shangri.La.Frontier.S02 => Shangri La Frontier S01 && S01 <> 1080p >> EP+25
 
-#我的美好婚事
+#我的美好婚事 第二季
 #My Happy Marriage S02E10 2023 1080p
 My Happy Marriage S02 => My Happy Marriage S01 && S01 <> 2023 >> EP+12
