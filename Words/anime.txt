@@ -1,3 +1,22 @@
+#物语系列 (2016)
+\[Kamigami\&VCB-Studio\] Kizumonogatari III - Reiketsu Hen => {[tmdbid=287083;type=tv;s=1;e=3]} Kizumonogatari S1E3 - Reiketsu Hen
+\[Kamigami\&VCB-Studio\] Kizumonogatari II - Nekketsu Hen => {[tmdbid=287083;type=tv;s=1;e=2]} Kizumonogatari S1E2 - Nekketsu Hen
+\[Kamigami\&VCB-Studio\] Kizumonogatari I - Tekketsu Hen=> {[tmdbid=287083;type=tv;s=1;e=1]} Kizumonogatari S1E1 - Tekketsu
+\[VCB-S\]Bakemonogatari => {[tmdbid=287083;type=tv;s=02]} 物语系列 S2
+Nisemonogatari => {[tmdbid=287083;type=tv;s=03]} Nisemonogatari
+Nekomonogatari +\(+Kuro+\) => {[tmdbid=287083;type=tv;s=04]} Nekomonogatari +\(+Kuro+\)
+Kabukimonogatari => {[tmdbid=287083;type=tv;s=05]} Kabukimonogatari
+Nekomonogatari +\(+Shiro+\) => {[tmdbid=287083;type=tv;s=06]} Nekomonogatari +\(+Shiro+\)
+Onimonogatari => {[tmdbid=287083;type=tv;s=07]} Onimonogatari
+Otorimonogatari => {[tmdbid=287083;type=tv;s=08]} Otorimonogatari
+Koimonogatari => {[tmdbid=287083;type=tv;s=09]} Koimonogatari
+\[VCB-Studio\] Tsukimonogatari => {[tmdbid=287083;type=tv;s=10]} Tsukimonogatari 
+\[VCB-Studio\] Koyomimonogatari => {[tmdbid=287083;type=tv;s=11]} Koyomimonogatari
+\[VCB-S\] Owarimonogatari  => {[tmdbid=287083;type=tv;s=12]} Owarimonogatari 历物语
+\[Nekomoe kissaten\&VCB-Studio\] Owarimonogatari S2 => {[tmdbid=287083;type=tv;s=12]} Owarimonogatari 终物语 S12 && S12 <> 1080p >> EP+13
+\[Nekomoe kissaten\&VCB-Studio\] Zoku Owarimonogatari => {[tmdbid=287083;type=tv;s=13]} 续·终物语
+Hanamonogatari => {[tmdbid=287083;type=tv;s=14]} 花物语
+
 #EVA新剧场版
 ヱヴァンゲリヲン新劇場版：Q： => 福音战士新剧场版 Q 
 ヱヴァンゲリヲン新劇場版：破： => 福音战士新剧场版 破 
@@ -35,3 +54,14 @@ Shangri.La.Frontier.S02 => Shangri La Frontier S01 && S01 <> 1080p >> EP+25
 #我的美好婚事 第二季
 #My Happy Marriage S02E10 2023 1080p
 My Happy Marriage S02 => My Happy Marriage S01 && S01 <> 2023 >> EP+12
+
+#字幕组修正
+Meowskers => 喵鲁字幕组
+喵萌Production => 喵萌奶茶屋
+Nekomoe kissaten => 喵萌奶茶屋
+VCB-S(?!tudio) => VCB-Studio
+Maho.sub => 魔穗字幕组
+Airota => 千夏字幕组
+FatCatRaw => 肥猫压制
+FSH Subtitle Group => FSH字幕组
+Liuyun => 流云字幕组
