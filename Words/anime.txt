@@ -9,10 +9,10 @@ Kabukimonogatari => {[tmdbid=287083;type=tv;s=05]} Kabukimonogatari
 Nekomonogatari +\(+Shiro+\) => {[tmdbid=287083;type=tv;s=06]} Nekomonogatari +\(+Shiro+\)
 Onimonogatari => {[tmdbid=287083;type=tv;s=07]} Onimonogatari
 Otorimonogatari => {[tmdbid=287083;type=tv;s=08]} Otorimonogatari
-Koimonogatari => {[tmdbid=287083;type=tv;s=09]} Koimonogatari
+Koimonogatari => {[tmdbid=287083;type=tv;s=09]} Koimonogatari 恋物语
 \[VCB-Studio\] Tsukimonogatari => {[tmdbid=287083;type=tv;s=10]} Tsukimonogatari 
-\[VCB-Studio\] Koyomimonogatari => {[tmdbid=287083;type=tv;s=11]} Koyomimonogatari
-\[VCB-S\] Owarimonogatari  => {[tmdbid=287083;type=tv;s=12]} Owarimonogatari 历物语
+\[VCB-Studio\] Koyomimonogatari => {[tmdbid=287083;type=tv;s=11]} Koyomimonogatari 历物语
+\[VCB-S\] Owarimonogatari  => {[tmdbid=287083;type=tv;s=12]} Owarimonogatari 终物语
 \[Nekomoe kissaten\&VCB-Studio\] Owarimonogatari S2 => {[tmdbid=287083;type=tv;s=12]} Owarimonogatari 终物语 S12 && S12 <> 1080p >> EP+13
 \[Nekomoe kissaten\&VCB-Studio\] Zoku Owarimonogatari => {[tmdbid=287083;type=tv;s=13]} 续·终物语
 Hanamonogatari => {[tmdbid=287083;type=tv;s=14]} 花物语
@@ -54,6 +54,8 @@ Shangri.La.Frontier.S02 => Shangri La Frontier S01 && S01 <> 1080p >> EP+25
 #我的美好婚事 第二季
 #My Happy Marriage S02E10 2023 1080p
 My Happy Marriage S02 => My Happy Marriage S01 && S01 <> 2023 >> EP+12
+#My.Happy.Marriage.S02E12.2023.1080p.NF.WEB-DL.H.264.AAC-FROGWeb.mkv
+My.Happy.Marriage.S02(?=.*FROGWeb) => My Happy Marriage S01 && S01 <> 2023 >> EP + 12
 
 #字幕组修正
 Meowskers => 喵鲁字幕组
