@@ -39,7 +39,8 @@ Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*FROGWeb) => Re.Zero.kara.Hajimeru.
 
 #药屋少女的呢喃 第二季 
 #The.Apothecary.Diaries.S02E09.2025.1080p.NF.WEB-DL.H.264.AAC-FROGWeb.mkv
-The.Apothecary.Diaries.S02(?=.*FROGWeb) => The.Apothecary.Diaries.S01 && S01 <> 2025 >> EP+24
+#The.Apothecary.Diaries.S02E18.2025.1080p.NF.WEB-DL.x264.AAC-ADWeb.mkv
+The.Apothecary.Diaries.S02(?=.*Web) => The.Apothecary.Diaries.S01 && S01 <> 2025 >> EP+24
 #The.Apothecary.Diaries.S02E08.1080p.NF.WEB-DL.AAC2.0.H.264-MWeb.mkv
 The.Apothecary.Diaries.S02(?=.*MWeb) => The.Apothecary.Diaries.S01 && S01 <> 1080p >> EP+24
 
